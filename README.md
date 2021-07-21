@@ -4,6 +4,7 @@ Trabalho para a disciplina de Linguagens Formais, 2021.1
 
 Data de entrega: 23/07/21
 
+Mariana Suarez de Oliveira - 217031112
 ## Objetivo
 
 Exercitar o uso de expressões regulares.
